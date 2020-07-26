@@ -1,0 +1,72 @@
+Please enter the search term :
+football
+Number of processors available:8
+Bing.com being searched for :football
+Links Extracted are:
+#################################
+https://www.bing.com/aclk?ld=e8EJF4ef5gFsHRovrPubpwtjVUCUzoar-brbjdEdn3H2Ucx7ilSt4HIhyY_k1dS4kneHGG5qO2q7uY4TNLi8CsuTa5VLj7l0WX6VmiXQoINNFysst62h70cHuuO0mtzyhcQkQKqSch3gU3rgZ-VgfJAOLMNHvJdqbTy2DREqpSITsM8FM3&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uY28udWslMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2Rmb290YmFsbCUyNnRhZyUzZG1oMGE5LTIxJTI2aW5kZXglM2RhcHMlMjZodmFkaWQlM2Q4MDQwMTgxOTY4NzI1MiUyNmh2cW10JTNkZSUyNmh2Ym10JTNkYmUlMjZodmRldiUzZGMlMjZyZWYlM2RwZF9zbF82dng1bDJjc3dfZQ&rlid=3ad49f8a248e12f7ab3dc097d29506fa
+https://www.bbc.co.uk/sport/football
+https://www.skysports.com/football
+https://www.msn.com/en-gb/sport/football/exclusive-nicolas-anelka-explains-shock-liverpool-transfer-and-replacing-robbie-fowler/ar-BB16V0uV
+https://www.bbc.com/sport/av/football/53467214
+https://www.mirror.co.uk/sport/football/match-centre/man-utd-vs-chelsea-live-22380340
+https://www.football.co.uk/
+https://www.thesun.co.uk/sport/football/
+https://chiefswire.usatoday.com/2020/07/25/kansas-city-chiefs-former-qb-alex-smith-cleared-football-activities-leg-injury/
+https://www.si.com/nfl/saints/news/ditka-national-anthem-debate
+https://www.theguardian.com/football
+https://www.newsnow.co.uk/h/Sport/Football
+https://www.thoughtco.com/football-101-basics-beginning-football-game-1335399
+https://www.quora.com/Is-football-a-good-sport
+https://healthfully.com/learn-football-kids-6875914.html
+https://entertainment.howstuffworks.com/nfl-football-channel.htm
+http://en.wikipedia.org/wiki/The_Football_Association
+https://twitter.com/FA
+https://www.facebook.com/523490094774353
+http://www.thefa.com/
+https://www.linkedin.com/company/the-football-association
+http://www.freebase.com/
+http://creativecommons.org/licenses/by-sa/3.0/
+http://go.microsoft.com/fwlink/?LinkId=521839
+http://help.bing.microsoft.com/#apex/18/en-GB/10013/-1/en-GB
+#################################
+[crawling.... ]https://www.bing.com/aclk?ld=e8EJF4ef5gFsHRovrPubpwtjVUCUzoar-brbjdEdn3H2Ucx7ilSt4HIhyY_k1dS4kneHGG5qO2q7uY4TNLi8CsuTa5VLj7l0WX6VmiXQoINNFysst62h70cHuuO0mtzyhcQkQKqSch3gU3rgZ-VgfJAOLMNHvJdqbTy2DREqpSITsM8FM3&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uY28udWslMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2Rmb290YmFsbCUyNnRhZyUzZG1oMGE5LTIxJTI2aW5kZXglM2RhcHMlMjZodmFkaWQlM2Q4MDQwMTgxOTY4NzI1MiUyNmh2cW10JTNkZSUyNmh2Ym10JTNkYmUlMjZodmRldiUzZGMlMjZyZWYlM2RwZF9zbF82dng1bDJjc3dfZQ&rlid=3ad49f8a248e12f7ab3dc097d29506fa  for .js in :/java/bing/0jsResult.html
+[crawling.... ]https://www.skysports.com/football  for .js in :/java/bing/2jsResult.html
+[crawling.... ]https://www.bbc.co.uk/sport/football  for .js in :/java/bing/1jsResult.html
+[crawling.... ]https://www.bbc.com/sport/av/football/53467214  for .js in :/java/bing/4jsResult.html
+[crawling.... ]https://www.football.co.uk/  for .js in :/java/bing/6jsResult.html
+[crawling.... ]https://www.mirror.co.uk/sport/football/match-centre/man-utd-vs-chelsea-live-22380340  for .js in :/java/bing/5jsResult.html
+[crawling.... ]https://www.msn.com/en-gb/sport/football/exclusive-nicolas-anelka-explains-shock-liverpool-transfer-and-replacing-robbie-fowler/ar-BB16V0uV  for .js in :/java/bing/3jsResult.html
+[crawling.... ]https://www.thesun.co.uk/sport/football/  for .js in :/java/bing/7jsResult.html
+[crawling.... ]https://chiefswire.usatoday.com/2020/07/25/kansas-city-chiefs-former-qb-alex-smith-cleared-football-activities-leg-injury/  for .js in :/java/bing/8jsResult.html
+[crawling.... ]https://www.si.com/nfl/saints/news/ditka-national-anthem-debate  for .js in :/java/bing/9jsResult.html
+[crawling.... ]https://www.theguardian.com/football  for .js in :/java/bing/10jsResult.html
+[crawling.... ]https://www.newsnow.co.uk/h/Sport/Football  for .js in :/java/bing/11jsResult.html
+[crawling.... ]https://www.thoughtco.com/football-101-basics-beginning-football-game-1335399  for .js in :/java/bing/12jsResult.html
+[crawling.... ]https://www.quora.com/Is-football-a-good-sport  for .js in :/java/bing/13jsResult.html
+[crawling.... ]https://healthfully.com/learn-football-kids-6875914.html  for .js in :/java/bing/14jsResult.html
+Parallel calculated in 2111 ms
+[Scraping for JS.... ]https://www.bing.com/aclk?ld=e8EJF4ef5gFsHRovrPubpwtjVUCUzoar-brbjdEdn3H2Ucx7ilSt4HIhyY_k1dS4kneHGG5qO2q7uY4TNLi8CsuTa5VLj7l0WX6VmiXQoINNFysst62h70cHuuO0mtzyhcQkQKqSch3gU3rgZ-VgfJAOLMNHvJdqbTy2DREqpSITsM8FM3&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uY28udWslMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2Rmb290YmFsbCUyNnRhZyUzZG1oMGE5LTIxJTI2aW5kZXglM2RhcHMlMjZodmFkaWQlM2Q4MDQwMTgxOTY4NzI1MiUyNmh2cW10JTNkZSUyNmh2Ym10JTNkYmUlMjZodmRldiUzZGMlMjZyZWYlM2RwZF9zbF82dng1bDJjc3dfZQ&rlid=3ad49f8a248e12f7ab3dc097d29506fa  for .js in :/java/bing/0jsResult.html
+[Scraping for JS.... ]https://www.skysports.com/football  for .js in :/java/bing/2jsResult.html
+[Scraping for JS.... ]https://www.bbc.co.uk/sport/football  for .js in :/java/bing/1jsResult.html
+[Scraping for JS.... ]https://www.bbc.com/sport/av/football/53467214  for .js in :/java/bing/4jsResult.html
+[Scraping for JS.... ]https://www.msn.com/en-gb/sport/football/exclusive-nicolas-anelka-explains-shock-liverpool-transfer-and-replacing-robbie-fowler/ar-BB16V0uV  for .js in :/java/bing/3jsResult.html
+[Scraping for JS.... ]https://www.mirror.co.uk/sport/football/match-centre/man-utd-vs-chelsea-live-22380340  for .js in :/java/bing/5jsResult.html
+[Scraping for JS.... ]https://www.thesun.co.uk/sport/football/  for .js in :/java/bing/7jsResult.html
+[Scraping for JS.... ]https://www.football.co.uk/  for .js in :/java/bing/6jsResult.html
+[Scraping for JS.... ]https://chiefswire.usatoday.com/2020/07/25/kansas-city-chiefs-former-qb-alex-smith-cleared-football-activities-leg-injury/  for .js in :/java/bing/8jsResult.html
+[Scraping for JS.... ]https://www.si.com/nfl/saints/news/ditka-national-anthem-debate  for .js in :/java/bing/9jsResult.html
+[Scraping for JS.... ]https://www.theguardian.com/football  for .js in :/java/bing/10jsResult.html
+[Scraping for JS.... ]https://www.newsnow.co.uk/h/Sport/Football  for .js in :/java/bing/11jsResult.html
+[Scraping for JS.... ]https://www.thoughtco.com/football-101-basics-beginning-football-game-1335399  for .js in :/java/bing/12jsResult.html
+[Scraping for JS.... ]https://www.quora.com/Is-football-a-good-sport  for .js in :/java/bing/13jsResult.html
+[Scraping for JS.... ]https://healthfully.com/learn-football-kids-6875914.html  for .js in :/java/bing/14jsResult.html
+Parallel calculated in 229 ms
+Top 5 JavaScript names used are :
+#################################
+bundle.js=114
+gpt.js=3
+orb.min.js=2
+html5shiv.min.js=2
+chartbeat.js=2
+#################################
